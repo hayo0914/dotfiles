@@ -1,0 +1,26 @@
+[core]
+  editor = /usr/bin/vim
+
+[user]
+name = yohamta
+email = yohamta@gmail.com
+
+[alias]
+  i = init
+  co = checkout
+  ci = commit
+  r = remote -v
+  a = add
+  aa = add -A
+  c = commit
+  aa = add -A
+  l = log
+  ll = log -p
+  s = status
+  cb = checkout -b
+  p = push
+  pm = push origin master
+  pl = pull
+  b = branch
+  m = merge
+  d = diff
