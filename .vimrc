@@ -39,7 +39,7 @@ set cursorline
 set noswapfile
 
 map <C-n> :NERDTreeToggle<CR>
-map <C-m> :TagbarToggle<CR>
+" map <C-m> :TagbarToggle<CR>
 nmap <C-p> :FZF<CR>
 
 " open tag list
